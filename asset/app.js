@@ -75,3 +75,4 @@ function changeImg(){
         divImg.style.backgroundSize = "cover";
     }
 }
+
